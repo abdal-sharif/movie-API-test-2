@@ -29,6 +29,12 @@ body{
 
 }
 
+.country-name1{
+    position: relative;
+    color: rgba(128, 128, 128, 0.158);
+    bottom: 20px;
+}
+
 h5{
     position: relative;
     font-family: sans-serif;
